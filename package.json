@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kara0809/kara0809.github.io"
+    "url": "https://kara0809.github.io"
   },
   "keywords": [
     "Birthday"
   ],
   "author": "Tower",
   "license": "WTFPL",
-  "homepage": "https://github.com/kara0809/kara0809.github.io",
+  "homepage": "https://kara0809.github.io",
   "dependencies": {
     "http-server": "^0.11.1"
   }
